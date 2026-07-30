@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 app.get('/', (req, res) => {
   res.json({
     nombre: 'Carlos Andre Gatica Herrera',
-    cancionFavorita: 'Temper City - Self Aware'
+    cancionFavorita: 'TBad Meets Evil - Fast Lane ft. Eminem, Royce Da 5.9'
   });
 });
 
